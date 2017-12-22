@@ -1,13 +1,22 @@
-Steps to start Calculator Application-
+# Dropbox
 
-React-
+Dropbox Prototype developed using ReactJs, NodeJs, MySQL
 
-1. npm install
-2. npm start
+# Functionality 
 
-Nodeserver-
-1. npm install
-2. npm start
+  * Signup new user
+  * Sign in existing user
+  * Upload a file 
+  * List a file 
+  * Create a directory
+  * Star a folder/directory
+  * Share a folder/directory byemail/name/link
+  * Create group
+  * Add member in agroup
+  * Show members in group
+  * Assign access permission to adirectory
+  * Delete member from agroup
+  
 
 Steps to start Dropbox Application-
 
@@ -16,7 +25,7 @@ React-
 1. npm install
 2. npm start
 
-Nodeserver-
+Node server-
 1. npm install
 2. npm start
 
